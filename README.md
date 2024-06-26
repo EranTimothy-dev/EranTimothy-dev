@@ -9,6 +9,7 @@
     </p>
 </div>
 
+[![LinkedIn][linkedin-shield]][linkedin-url] 
 
 ## About Me
 I am an enthusiastic person when it comes to technology. I enjoy working various technologies and love building things that can have an impact on people.
@@ -20,8 +21,8 @@ I am an enthusiastic person when it comes to technology. I enjoy working various
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" title="Java" alt="Java Logo" width="40">
 </div>
 
-### Feel free reach me: 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[//]: # (### Feel free reach me: )
+
 
 
 
