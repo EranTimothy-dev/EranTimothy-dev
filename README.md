@@ -1,7 +1,7 @@
 <br>
 <div align = "center">
     <a href="#">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQyMmR6bmxlejZsMDYxNXJhbXFvdm93cnprYTluNGRjZmdndTd6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" alt="Logo" width="200" height="200">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQyMmR6bmxlejZsMDYxNXJhbXFvdm93cnprYTluNGRjZmdndTd6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" alt="Logo" width="80" height="80">
     </a>
     <h2>Hi There 👋</h2>
     <h4>Trying to change the world one line at a time</h4>
