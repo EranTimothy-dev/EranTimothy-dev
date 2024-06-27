@@ -12,7 +12,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 
 ## About Me
-I am an enthusiastic person when it comes to technology. I enjoy working various technologies and love building things that can have an impact on people.
+I am an enthusiastic person when it comes to technology, and I find myself intrigued by all the tech that is out there. I enjoy building things that are fun and can be usefull in some way.
 
 <br>
 
