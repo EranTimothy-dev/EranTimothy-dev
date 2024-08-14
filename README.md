@@ -12,7 +12,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 
 ## About Me
-I am an enthusiastic person when it comes to technology, and I find myself intrigued by all the tech that is out there. I enjoy building things that are fun and can be usefull in some way.
+Got a passion for innovation, a thirst for knowledge and dire need to make my life easier than it already is😂.<br>
+#automation#programming#development
 
 <br>
 
