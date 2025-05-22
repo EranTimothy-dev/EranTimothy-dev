@@ -17,10 +17,10 @@ Got a passion for innovation, a thirst for knowledge and dire need to make my li
 
 <br>
 
-<div>
+<!--<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" title="Java" alt="Java Logo" width="40">
-</div>
+</div> -->
 
 [//]: # (### Feel free reach me: )
 
